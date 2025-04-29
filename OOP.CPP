@@ -2,7 +2,7 @@
 using namespace std;
 
 class mahasiswa{
-Public:
+public:
 int nim;
 string nama;
 float nilai;
@@ -20,4 +20,5 @@ mhs.nim = 2024;
 mhs.nama = "Rezky";
 mhs.nilai = 100;
 
+mhs.print_data();
 }
