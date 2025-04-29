@@ -14,3 +14,10 @@ cout << "Nilai =" << nilai << endl;
 }
 
 };
+int main (){
+mahasiswa mhs;
+mhs.nim = 2024;
+mhs.nama = "Rezky";
+mhs.nilai = 100;
+
+}
